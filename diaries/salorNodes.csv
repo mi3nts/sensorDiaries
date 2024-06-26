@@ -1,36 +1,36 @@
 name,id1,location,status,date
-Salor Node 01,a8610a3234408703,At lab   ,for repair,06-24-2024 
-Salor Node 02,a8610a3230386e05,West Tech,no Data,05-28-2024 
-Salor Node 03,a8610a34323b6413,At lab for repair,, 06-24-2024 
-Salor Node 04,a8610a32302d6715, -, -, -,West Tech,No Data, 06-02-2024 
-Salor Node 05,a8610a3233458b03, -, -, -,"At lab, for repair",, 06-24-2024 
-Salor Node 06,a8610a32333f7508, -, -, -,"At lab, for repair",, 06-24-2024 
-Salor Node 07,a8610a343232730e, -, -, -,"At lab, for repair",, 06-24-2024
-Salor Node 08,a8610a3233368503, -, -, -,"At lab, for repair",, 06-24-2024
-Salor Node 09,a8610a3432385d10, -, -, -,"At lab, for repair",, 06-24-2024
-Salor Node 10,a8610a3432428d11, -, -, -,West Tech,No Data, 05-28-2024 
-Salor Node 11,a8610a343246750e, -, -, -,"At lab, for repair",, 06-24-2024 
-Salor Node 12,a8610a3234208d16, -, -, -,"At lab, for repair",, 06-24-2024 
-Salor Node 13,a8610a32302f8404, -, -, -,"At lab, for repair",, 06-24-2024
-Salor Node 14,a8610a3233349303, -, -, -,"At lab, for repair",, 06-24-2024
-Salor Node 15,a8610a34322a8711, -, -, -,"At lab, for repair",, 06-24-2024
-Salor Node 16,a8610a34321e6d13, -, -, -,"Paul Quin College - Simpson Stuart Rd, Dallas",Live, 06-26-2024
-Salor Node 17,a8610a3234296817, -, -, -,"At lab, for repair",, 06-24-2024
-Salor Node 18,a8610a3233336204, -, -, -,Paul Quin College - Happy Canyon Dr Dallas,Live, 06-26-2024
-Salor Node 19,a8610a3432256513, -, -, -,"Paul Quin College - Mullti Purpose Grounds, Dallas",Live, 06-26-2024
-Salor Node 20,a8610a3230368504, -, -, -,"At lab, for repair",, 06-24-2024 
-Salor Node 21,a8610a3230408504, -, -, -,West Tech,, 05-28-2024 
-Salor Node 22,a8610a3233417008, -, -, -,"At lab, for repair",, 06-24-2024 
-Salor Node 23,a8610a32342c6317, -, -, -,"At lab, for repair",, 06-24-2024 
-Salor Node 24,a8610a32303f8004, -, -, -,"Paul Quinn College - Gymnasium, Dallas",Live- No PM Data, 06-26-2024
-Salor Node 25,a8610a3230247804, -, -, -,"Paul Quinn College - East Entrance, Dallas",Live, 06-26-2024
-Salor Node 26,a8610a3234458a16, -, -, -,"At lab, for repair",, 06-24-2024 
-Salor Node 27,a8610a3230308304, -, -, -,"Paul Quinn College - Main Entrance, Dallas",No Data, 06-26-2024
-Salor Node 28,a8610a32304b8504, -, -, -,"Paul Quinn College - Five Mile Creek, Dallas",Live, 06-26-2024
-Salor Node 29,a8610a3234458c16, -, -, -,West Tech,, 05-28-2024 
-Salor Node 30,a8610a3234298916, -, -, -,"Paul Quinn College - Branham Drive, Dallas",Live- No GPS Data, 06-26-2024
-Salor Node 31,a8610a32342f6217, -, -, -,"At lab, for repair",, 06-24-2024 
-Salor Node 32,a8610a32342d6817, -, -, -,,,
-Salor Node 33,a8610a343238750e, -, -, -,,,
-Salor Node 34,a8610a32341f8a16, -, -, -,,,
-Salor Node 35,a8610a3234386717, -, -, -,"Paul Quinn College - Flagstaff Dr, Dallas",Live- No GPS Data, 06-26-2024
+Salor Node 01,a8610a3234408703,At lab,for repair,06-24-2024
+Salor Node 02,a8610a3230386e05,West Tech,no Data,05-28-2024
+Salor Node 03,a8610a34323b6413,At lab,for repair,06-24-2024
+Salor Node 04,a8610a32302d6715,West Tech,no Data,06-02-2024
+Salor Node 05,a8610a3233458b03,At lab,for repair,06-24-2024
+Salor Node 06,a8610a32333f7508,At lab,for repair,06-24-2024
+Salor Node 07,a8610a343232730e,At lab,for repair,06-24-2024
+Salor Node 08,a8610a3233368503,At lab,for repair,06-24-2024
+Salor Node 09,a8610a3432385d10,At lab,for repair,06-24-2024
+Salor Node 10,a8610a3432428d11,West Tech,no Data,05-28-2024
+Salor Node 11,a8610a343246750e,At lab,for repair,06-24-2024
+Salor Node 12,a8610a3234208d16,At lab,for repair,06-24-2024
+Salor Node 13,a8610a32302f8404,At lab,for repair,06-24-2024
+Salor Node 14,a8610a3233349303,At lab,for repair,06-24-2024
+Salor Node 15,a8610a34322a8711,At lab,for repair,06-24-2024
+Salor Node 16,a8610a34321e6d13,Paul Quin College - Simpson Stuart Rd, Dallas,Live,06-26-2024
+Salor Node 17,a8610a3234296817,At lab,for repair,06-24-2024
+Salor Node 18,a8610a3233336204,Paul Quin College - Happy Canyon Dr, Dallas,Live,06-26-2024
+Salor Node 19,a8610a3432256513,Paul Quin College - Multi Purpose Grounds, Dallas,Live,06-26-2024
+Salor Node 20,a8610a3230368504,At lab,for repair,06-24-2024
+Salor Node 21,a8610a3230408504,West Tech,,05-28-2024
+Salor Node 22,a8610a3233417008,At lab,for repair,06-24-2024
+Salor Node 23,a8610a32342c6317,At lab,for repair,06-24-2024
+Salor Node 24,a8610a32303f8004,Paul Quinn College - Gymnasium, Dallas,Live- No PM Data,06-26-2024
+Salor Node 25,a8610a3230247804,Paul Quinn College - East Entrance, Dallas,Live,06-26-2024
+Salor Node 26,a8610a3234458a16,At lab,for repair,06-24-2024
+Salor Node 27,a8610a3230308304,Paul Quinn College - Main Entrance, Dallas,No Data,06-26-2024
+Salor Node 28,a8610a32304b8504,Paul Quinn College - Five Mile Creek, Dallas,Live,06-26-2024
+Salor Node 29,a8610a3234458c16,West Tech,,05-28-2024
+Salor Node 30,a8610a3234298916,Paul Quinn College - Branham Drive, Dallas,Live- No GPS Data,06-26-2024
+Salor Node 31,a8610a32342f6217,At lab,for repair,06-24-2024
+Salor Node 32,a8610a32342d6817,,,,
+Salor Node 33,a8610a343238750e,,,,
+Salor Node 34,a8610a32341f8a16,,,,
+Salor Node 35,a8610a3234386717,Paul Quinn College - Flagstaff Dr, Dallas,Live- No GPS Data,06-26-2024
