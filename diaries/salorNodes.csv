@@ -6,12 +6,12 @@ Salor Node 04,a8610a32302d6715,WSTC,Active (Connection Problem),7/8/2024
 Salor Node 05,a8610a3233458b03,At lab,for repair,6/24/2024
 Salor Node 06,a8610a32333f7508,At lab,for repair,6/24/2024
 Salor Node 07,a8610a343232730e,At lab,for repair,6/24/2024
-Salor Node 08,a8610a3233368503,At lab,Active,7/8/2024
+Salor Node 08,a8610a3233368503,WSTC,Active,7/8/2024
 Salor Node 09,a8610a3432385d10,At lab,for repair,6/24/2024
 Salor Node 10,a8610a3432428d11,WSTC,Active,7/8/2024
 Salor Node 11,a8610a343246750e,WSTC,Active,7/8/2024
 Salor Node 12,a8610a3234208d16,At lab,for repair,6/24/2024
-Salor Node 13,a8610a32302f8404,At lab,Active (No CO2/GPS/Light),6/24/2024
+Salor Node 13,a8610a32302f8404,WSTC,Active (No CO2/Light),6/24/2024
 Salor Node 14,a8610a3233349303,At lab,for repair,6/24/2024
 Salor Node 15,a8610a34322a8711,WSTC,Active,7/8/2024
 Salor Node 16,a8610a34321e6d13,Paul Quinn College - Simpson Stuart Rd - Dallas,Active (No Data from BME280),7/8/2024
